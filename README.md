@@ -9,11 +9,12 @@ An interactive, high-performance delivery analytics dashboard for monitoring fle
 ## 📸Screenshots
 
 ### Overview Dashboard
-<img width="100%" height="100%" alt="dashboard" src="https://github.com/user-attachments/assets/cbf7b3af-8f68-4024-adee-8b349dac7ab9">
+<img width="100%" height="100%" alt="Screenshot 2026-10-30 130544" src="https://github.com/user-attachments/assets/1ac6f39e-4e5f-4bce-8c8b-20a65a261741">
 
 
 ### Rider Performance
-<img width="100%" height="100%" alt="rider-performance" src="https://github.com/user-attachments/assets/af634879-cb17-4de2-ac11-844274e07a3a">
+<img width="100%" height="100%" alt="Screenshot 2026-10-30 130508" src="https://github.com/user-attachments/assets/7893606e-cfd6-4cc3-bebf-95a36dbec20e">
+
 
 
 ---
